@@ -12,7 +12,6 @@ align="right"
 width="500">
 
 ~~~
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
